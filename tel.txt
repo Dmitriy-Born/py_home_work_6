@@ -1,0 +1,4 @@
+Petrov, Semen, Semenovich, +7987654321
+Sidorov, Aleksandr, Egorovich, +787634768
+Chingachkuk, Aron, Moiseevich, +7273452837
+Ivanov, Ivan, Ivanovich, +7395879568
